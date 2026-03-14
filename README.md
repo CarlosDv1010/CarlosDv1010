@@ -12,6 +12,14 @@ Some things I've built:
 • Drawing robot arm  
 • Competitive programming (ICPC regionalist, Codeforces specialist)
 
+---
+
 ## Languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosDv1010&layout=compact&theme=github_dark&hide_border=true&hide=jupyter%20notebook)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosDv1010&layout=compact&theme=github_dark&hide_border=true&hide=jupyter%20notebook">
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Codeforces-Specialist-blue">
+</p>
