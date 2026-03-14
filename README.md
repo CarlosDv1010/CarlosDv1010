@@ -2,7 +2,7 @@
 
 I enjoy building things involving math, graphics and systems.
 
-<img src="fractal.gif" width="450">
+<img src="fractal.gif" width="300">
 Some things I've built:
 
 • Mathematical fractal rendering (2D & 3D)  
