@@ -2,10 +2,7 @@
 
 I enjoy building things involving math, graphics and systems.
 
-<video width="450" autoplay loop muted>
-  <source src="fractal.mp4" type="video/mp4">
-</video>
-
+<video src="fractal.mp4" autoplay loop muted width="450"></video>
 Some things I've built:
 
 • Mathematical fractal rendering (2D & 3D)  
